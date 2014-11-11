@@ -1,6 +1,6 @@
-![MALogo!](http://www.makersacademy.com/images/logo.png)
+![MALogo](http://www.makersacademy.com/images/logo.png)
 
-![yelptest!](http://static.squarespace.com/static/52166010e4b04422e03d0de4/t/53f7792de4b02e1724abc096/1408727341394/yelp-logo.png)
+![yelptest](http://static.squarespace.com/static/52166010e4b04422e03d0de4/t/53f7792de4b02e1724abc096/1408727341394/yelp-logo.png)
 
 Yelptest
 --
